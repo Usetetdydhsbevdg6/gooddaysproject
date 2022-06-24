@@ -1,0 +1,25 @@
+html, body {
+	height: 100%;
+}
+
+body {
+	background-color: #000;
+	color: #fff;
+	font-family: sans-serif;
+	background-size: cover;
+	font-size: 76%;
+}
+
+ul {
+	list-style: none;
+}
+
+section {
+	padding: 40px;
+}
+
+a {
+	color: #fff;
+	font-size: 18px;
+	line-height: 60px;
+}
