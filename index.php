@@ -10,7 +10,7 @@
 
 <body>
 	<h1>
-		<i>Hey haters, the GoodDays Anti-LGBTQ-Army is back again but you're now anonymous</i>
+		<i>Hey haters, the GoodDays is back again but you're now anonymous</i>
 	</h1>
 	<p>( if you dox someone here an publish the infos your IP adress will be leaked all over the internet, we have a sfull team of cybersecurity professionals who speak Russian, Arabic, French, English, Chinese, Indian, Italian and Spanish. )</p>
 	<section>
